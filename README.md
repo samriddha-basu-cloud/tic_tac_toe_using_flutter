@@ -16,13 +16,13 @@ Experience the timeless joy of Tic Tac Toe on any device! This Flutter-based gam
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/samriddha-basu-cloud/tic_tac_toe_using_flutter.git
    ```
 
 3. Navigate to the project directory:
 
    ```bash
-   cd tic-tac-toe
+   cd tic_tac_toe_using_flutter
    ```
 
 4. Run the app:
@@ -43,17 +43,9 @@ Experience the timeless joy of Tic Tac Toe on any device! This Flutter-based gam
 4. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins!
 
 
-## Contributing
-
-Contributions are welcome! Please check out our [contribution guidelines](CONTRIBUTING.md) to get started.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
-Have questions or suggestions? Feel free to [contact us](mailto:youremail@example.com).
+Have questions or suggestions? Feel free to [contact us](mailto:sb2899@srmist.edu.in).
 
 Enjoy your games of Tic Tac Toe!
 ---
